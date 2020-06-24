@@ -1,0 +1,7 @@
+{
+  "mongoURI": "mongodb+srv://jmvocke:jmvocke1234@devconnector-lfltf.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "12fd7a552dc16d73e0bd",
+  "githubSecret": "e5b6541ca6bc305d20a0b3f943ce9de6ab3c0f3b",
+  "githubToken": "84d4ddc8a0b9c4fc463106a0d58852b297b6ddc3"
+}
